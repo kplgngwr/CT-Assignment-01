@@ -1,4 +1,4 @@
-# Practice-1
+# CT-Assignment-01
 
 ## Description
 This is a simple Node.js project that serves a creative "Hello World" page styled with TailwindCSS. The project demonstrates basic server functionality and creative design.
@@ -15,7 +15,7 @@ This is a simple Node.js project that serves a creative "Hello World" page style
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Practice-1
+   cd CT-Assignment-01
    ```
 3. Install dependencies:
    ```bash
