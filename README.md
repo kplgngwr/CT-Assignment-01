@@ -11,7 +11,7 @@ This is a simple Node.js project that serves a creative "Hello World" page style
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kplgngwr/CT-Assignment-01.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -39,4 +39,4 @@ This is a simple Node.js project that serves a creative "Hello World" page style
 Kapil Gangwar
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the ISC License.

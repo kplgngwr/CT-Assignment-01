@@ -6,7 +6,7 @@
     "Node",
     "NPM"
   ],
-  "license": "MIT",
+  "license": "ISC",
   "author": "Kapil Gangwar",
   "type": "commonjs",
   "main": "index.js",
