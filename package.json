@@ -1,0 +1,21 @@
+{
+  "name": "practice-1",
+  "version": "1.0.0",
+  "description": "this is the test package.json",
+  "keywords": [
+    "Node",
+    "NPM"
+  ],
+  "license": "MIT",
+  "author": "Kapil Gangwar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "express": "^5.1.0"
+  }
+}
